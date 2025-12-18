@@ -1,0 +1,142 @@
+[
+  {
+    "gold": "AVENTURES",
+    "roman_id": "1900_Verne-Jules-_Seconde-patrie",
+    "json_path": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/json_novels/AVENTURES__1900_Verne-Jules-_Seconde-patrie.json",
+    "n_chunks": 242,
+    "source": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/data_seance_14/aventures/1900_Verne-Jules-_Seconde-patrie.txt"
+  },
+  {
+    "gold": "AVENTURES",
+    "roman_id": "1902_Allais-Alphonse_Le-Captain-Cap",
+    "json_path": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/json_novels/AVENTURES__1902_Allais-Alphonse_Le-Captain-Cap.json",
+    "n_chunks": 80,
+    "source": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/data_seance_14/aventures/1902_Allais-Alphonse_Le-Captain-Cap.txt"
+  },
+  {
+    "gold": "AVENTURES",
+    "roman_id": "1902_Le-Rouge-Gustave_La-Princesse-des-airs_Tome-I",
+    "json_path": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/json_novels/AVENTURES__1902_Le-Rouge-Gustave_La-Princesse-des-airs_Tome-I.json",
+    "n_chunks": 146,
+    "source": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/data_seance_14/aventures/1902_Le-Rouge-Gustave_La-Princesse-des-airs_Tome-I.txt"
+  },
+  {
+    "gold": "AVENTURES",
+    "roman_id": "1902_Le-Rouge-Gustave_La-Princesse-des-airs_Tome-II",
+    "json_path": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/json_novels/AVENTURES__1902_Le-Rouge-Gustave_La-Princesse-des-airs_Tome-II.json",
+    "n_chunks": 148,
+    "source": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/data_seance_14/aventures/1902_Le-Rouge-Gustave_La-Princesse-des-airs_Tome-II.txt"
+  },
+  {
+    "gold": "AVENTURES",
+    "roman_id": "1903_Vogue-Eugene-Melchior-de_Le-Maitre-de-la-mer",
+    "json_path": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/json_novels/AVENTURES__1903_Vogue-Eugene-Melchior-de_Le-Maitre-de-la-mer.json",
+    "n_chunks": 232,
+    "source": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/data_seance_14/aventures/1903_Vogue-Eugene-Melchior-de_Le-Maitre-de-la-mer.txt"
+  },
+  {
+    "gold": "AVENTURES",
+    "roman_id": "1904_Le-Rouge-Gustave_L-Esclave-amoureuse",
+    "json_path": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/json_novels/AVENTURES__1904_Le-Rouge-Gustave_L-Esclave-amoureuse.json",
+    "n_chunks": 47,
+    "source": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/data_seance_14/aventures/1904_Le-Rouge-Gustave_L-Esclave-amoureuse.txt"
+  },
+  {
+    "gold": "AVENTURES",
+    "roman_id": "1905_Le-Rouge-Gustave_L-Espionne-du-grand-Lama",
+    "json_path": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/json_novels/AVENTURES__1905_Le-Rouge-Gustave_L-Espionne-du-grand-Lama.json",
+    "n_chunks": 88,
+    "source": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/data_seance_14/aventures/1905_Le-Rouge-Gustave_L-Espionne-du-grand-Lama.txt"
+  },
+  {
+    "gold": "AVENTURES",
+    "roman_id": "1905_Lermina-Jules_To-Ho-Le-Tueur-d-or",
+    "json_path": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/json_novels/AVENTURES__1905_Lermina-Jules_To-Ho-Le-Tueur-d-or.json",
+    "n_chunks": 110,
+    "source": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/data_seance_14/aventures/1905_Lermina-Jules_To-Ho-Le-Tueur-d-or.txt"
+  },
+  {
+    "gold": "AVENTURES",
+    "roman_id": "1905_Verne-Jules_L-invasion-de-la-mer",
+    "json_path": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/json_novels/AVENTURES__1905_Verne-Jules_L-invasion-de-la-mer.json",
+    "n_chunks": 116,
+    "source": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/data_seance_14/aventures/1905_Verne-Jules_L-invasion-de-la-mer.txt"
+  },
+  {
+    "gold": "AVENTURES",
+    "roman_id": "1905_Verne-Jules_Le-Phare-du-Bout-du-Monde",
+    "json_path": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/json_novels/AVENTURES__1905_Verne-Jules_Le-Phare-du-Bout-du-Monde.json",
+    "n_chunks": 98,
+    "source": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/data_seance_14/aventures/1905_Verne-Jules_Le-Phare-du-Bout-du-Monde.txt"
+  },
+  {
+    "gold": "SENTIMENTAL",
+    "roman_id": "1901_Thurner-Georges_Mademoiselle-Flammette",
+    "json_path": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/json_novels/SENTIMENTAL__1901_Thurner-Georges_Mademoiselle-Flammette.json",
+    "n_chunks": 117,
+    "source": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/data_seance_14/sentimental/1901_Thurner-Georges_Mademoiselle-Flammette.txt"
+  },
+  {
+    "gold": "SENTIMENTAL",
+    "roman_id": "1908_Delly_L'exilee",
+    "json_path": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/json_novels/SENTIMENTAL__1908_Delly_L'exilee.json",
+    "n_chunks": 115,
+    "source": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/data_seance_14/sentimental/1908_Delly_L'exilee.txt"
+  },
+  {
+    "gold": "SENTIMENTAL",
+    "roman_id": "1913_Delly_Entre-deux-ames",
+    "json_path": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/json_novels/SENTIMENTAL__1913_Delly_Entre-deux-ames.json",
+    "n_chunks": 116,
+    "source": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/data_seance_14/sentimental/1913_Delly_Entre-deux-ames.txt"
+  },
+  {
+    "gold": "SENTIMENTAL",
+    "roman_id": "1916_Ardel-Henri_Le-chemin-qui-descend",
+    "json_path": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/json_novels/SENTIMENTAL__1916_Ardel-Henri_Le-chemin-qui-descend.json",
+    "n_chunks": 101,
+    "source": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/data_seance_14/sentimental/1916_Ardel-Henri_Le-chemin-qui-descend.txt"
+  },
+  {
+    "gold": "SENTIMENTAL",
+    "roman_id": "1916_Delly_La-fin-d'une-Walkyrie",
+    "json_path": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/json_novels/SENTIMENTAL__1916_Delly_La-fin-d'une-Walkyrie.json",
+    "n_chunks": 162,
+    "source": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/data_seance_14/sentimental/1916_Delly_La-fin-d'une-Walkyrie.txt"
+  },
+  {
+    "gold": "SENTIMENTAL",
+    "roman_id": "1917_Delly_La-petite-chanoinesse",
+    "json_path": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/json_novels/SENTIMENTAL__1917_Delly_La-petite-chanoinesse.json",
+    "n_chunks": 95,
+    "source": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/data_seance_14/sentimental/1917_Delly_La-petite-chanoinesse.txt"
+  },
+  {
+    "gold": "SENTIMENTAL",
+    "roman_id": "1922_Alanic-Mathilde_La-route-ardente",
+    "json_path": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/json_novels/SENTIMENTAL__1922_Alanic-Mathilde_La-route-ardente.json",
+    "n_chunks": 84,
+    "source": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/data_seance_14/sentimental/1922_Alanic-Mathilde_La-route-ardente.txt"
+  },
+  {
+    "gold": "SENTIMENTAL",
+    "roman_id": "1932_Veuzit-Max-du_Petite-comtesse",
+    "json_path": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/json_novels/SENTIMENTAL__1932_Veuzit-Max-du_Petite-comtesse.json",
+    "n_chunks": 146,
+    "source": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/data_seance_14/sentimental/1932_Veuzit-Max-du_Petite-comtesse.txt"
+  },
+  {
+    "gold": "SENTIMENTAL",
+    "roman_id": "1933_Veuzit-Max-du_Vers-l'unique",
+    "json_path": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/json_novels/SENTIMENTAL__1933_Veuzit-Max-du_Vers-l'unique.json",
+    "n_chunks": 101,
+    "source": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/data_seance_14/sentimental/1933_Veuzit-Max-du_Vers-l'unique.txt"
+  },
+  {
+    "gold": "SENTIMENTAL",
+    "roman_id": "1955_Delly_Ourida",
+    "json_path": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/json_novels/SENTIMENTAL__1955_Delly_Ourida.json",
+    "n_chunks": 106,
+    "source": "/home/crazyjeannot/Documents/cours/2025/TALL_CPES_25-26/seance_14/data_seance_14/sentimental/1955_Delly_Ourida.txt"
+  }
+]
